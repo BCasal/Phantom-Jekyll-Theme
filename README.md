@@ -1,7 +1,7 @@
 ### Template Phantom by: HTML5 UP converted to Jekyll Theme
 [Demo](http://bcasal.github.io/Phantom-Jekyll-Theme/)
 
-![Captura de pantalla](https://github.com/BCasal/Phantom-Jekyll-Theme/blob/master/screenshot.png "Captura de Pantalla")
+![Captura de pantalla](https://github.com/BCasal/Phantom-Jekyll-Theme/blob/gh-pages/screenshot.png "Captura de Pantalla")
 
 ### Phantom by HTML5 UP
 [http://html5up.net](html5up.net) | @n33co
