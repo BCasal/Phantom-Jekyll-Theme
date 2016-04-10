@@ -4,7 +4,7 @@
 ![Captura de pantalla](https://github.com/BCasal/Phantom-Jekyll-Theme/blob/gh-pages/screenshot.png "Captura de Pantalla")
 
 ### Phantom by HTML5 UP
-[http://html5up.net](html5up.net) | @n33co
+[http://html5up.net/](html5up.net) | @n33co
 
 Free for personal and commercial use under the CCA 3.0 license
 [http://html5up.net/license](html5up.net/license)
