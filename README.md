@@ -5,8 +5,8 @@
 
 ### Phantom by [HTML5 UP](http://html5up.net/) | @n33co
 
-Free for personal and commercial use under the CCA 3.0 license
-[html5up.net/license](http://html5up.net/license)
+***Free for personal and commercial use under the CCA 3.0 license
+[html5up.net/license](http://html5up.net/license)***
 
 This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
 image tiles (of which you can have as many or as few as you like). Makes use of some
@@ -18,21 +18,20 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-n33.co @n33co dribbble.com/n33
+**AJ**
+***n33.co @n33co dribbble.com/n33***
 
+#### Credits:
 
-Credits:
+* **Demo Images:**
+  * Unsplash (unsplash.com)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+* **Icons:**
+  * Font Awesome (fortawesome.github.com/Font-Awesome)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+* **Other:**
+  * jQuery (jquery.com)
+  * html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+  * Misc. Sass functions (@HugoGiraudel)
+  * Respond.js (j.mp/respondjs)
+  * Skel (skel.io)
