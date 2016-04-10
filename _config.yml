@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   image tiles (of which you can have as many or as few as you like). Makes use of some
   SVG and animation techniques I've been experimenting with on that other project of mine
   you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/Phantom-Jekyll-Theme" # the subpath of your site, e.g. /blog
+url: "http://bcasal.github.io" # the base hostname & protocol for your site
 
 # Contact settings
 email: your-email@domain.com
