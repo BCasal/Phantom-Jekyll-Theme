@@ -34,6 +34,4 @@ n33.co @n33co dribbble.com/n33**
   * Respond.js (j.mp/respondjs)
   * Skel (skel.io)
 
-<div style="border: 1px solid #ccc;">
 ![Captura de pantalla](https://github.com/BCasal/Phantom-Jekyll-Theme/blob/gh-pages/screenshot.png "Captura de Pantalla")
-</div>
