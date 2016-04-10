@@ -26,3 +26,5 @@ markdowm: kramdown
 kramdown:
   input:      GFM
   auto_ids:   false
+
+exclude: ["README.md", "LICENSE.md", "screenshot.png"]
