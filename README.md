@@ -1,8 +1,6 @@
 ### Template Phantom by: HTML5 UP converted to Jekyll Theme
 [Demo](http://bcasal.github.io/Phantom-Jekyll-Theme/)
 
-![Captura de pantalla](https://github.com/BCasal/Phantom-Jekyll-Theme/blob/gh-pages/screenshot.png "Captura de Pantalla")
-
 ### Phantom by [HTML5 UP](http://html5up.net/) | @n33co
 
 ***Free for personal and commercial use under the CCA 3.0 license
@@ -35,3 +33,5 @@ n33.co @n33co dribbble.com/n33**
   * Misc. Sass functions (@HugoGiraudel)
   * Respond.js (j.mp/respondjs)
   * Skel (skel.io)
+
+![Captura de pantalla](https://github.com/BCasal/Phantom-Jekyll-Theme/blob/gh-pages/screenshot.png "Captura de Pantalla")
