@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Home"
+order: 1
+description: >
+  This is Phantom, a free, fully responsive site<br />
+  template designed by <a href="http://html5up.net" title="HTML5 UP">HTML5 UP</a>.
+---
+<header>
+	<h1>{{ page.description }}</h1>
+	<p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+</header>
+<section class="tiles">
+
+  {% for post in site.posts %}
+      <article class="{{ post.class }}">
+        <span class="image">
+          <img src="{{ post.list-image | prepend: site.baseurl }}" alt="">
+        </span>
+        <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">
+          <h2>{{ post.title }}</h2>
+          <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+          <div class="content">
+            <p>{{ post.description }}</p>
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+
+</section>

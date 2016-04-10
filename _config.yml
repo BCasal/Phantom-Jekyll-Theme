@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Phantom by HTML5 UP
+description: > # this means to ignore newlines until "baseurl:"
+  This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
+  image tiles (of which you can have as many or as few as you like). Makes use of some
+  SVG and animation techniques I've been experimenting with on that other project of mine
+  you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Contact settings
+email: your-email@domain.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdowm: kramdown
+
+kramdown:
+  input:      GFM
+  auto_ids:   false
