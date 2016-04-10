@@ -18,8 +18,8 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-**AJ ~ **
-***n33.co @n33co dribbble.com/n33***
+**AJ ~**
+*** n33.co @n33co dribbble.com/n33***
 
 #### Credits:
 
