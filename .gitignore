@@ -1,6 +1,7 @@
 # GNU/Linux
 .*
 !.gitignore
+!.editorconfig
 !.htaccess
 *~
 
